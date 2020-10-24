@@ -1,0 +1,48 @@
+---
+title: "Article 1"
+description: |
+  When whales stop calling
+author:
+  - name: Massart Théo
+    url: {}
+date: 10-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+Source of the article: [link](https://www.scientificamerican.com/article/when-whales-stop-calling/)
+
+(04/10/2020)
+
+Word count: 783
+
+## II. Vocabulary:
+
+| Word from the text | Synonym/definition in English                                                                  | French translation |
+| ------------------ | ---------------------------------------------------------------------------------------------- | ------------------ |
+| Bowhead whales     | a species of baleen whale belonging to the family Balaenidae                                   | Baleine boréale    |
+| altogether         | taking everything in consideration. eg : overall, completely                                   | Complètement       |
+| tow                | pull behind                                                                                    | Remorquer          |
+| albeit             | although                                                                                       | bien que, quoique  |
+| bandwidth          | a range of frequencies within a given band, in particular that used for transmitting a signal. | la bande passante  |
+| mating             | creating babies                                                                                | la reproduction    |
+| depleted           | in short supply                                                                                | bas, en baisse     |
+
+## III. Analysis table about the study:
+
+| Researchers?                        | Taylor L. Machette from Princeton University                                            |
+| ----------------------------------- | --------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | Scientific American (04/10/2020)                                                        |
+| General topic                       | The negative impact of seismic research on whales                                       |
+| Procedure/What was examined         | 1. Analyse the loudness of airgun arrays 
+2. See the damage that cause to whales        |
+| Conclusions/Discovery               | The impacts of airgun blasts must be controlled to secure the life of thousands whales  |
+| Remaining questions                 | /                                                                                       |
+
