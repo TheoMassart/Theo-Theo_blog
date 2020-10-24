@@ -37,13 +37,12 @@ Word count: 783
 
 ## III. Analysis table about the study:
 
-| Researchers?                        | Taylor L. Machette from Princeton University                                            |
-| ----------------------------------- | --------------------------------------------------------------------------------------- |
-| Published in? When (if mentioned) ? | Scientific American (04/10/2020)                                                        |
-| General topic                       | The negative impact of seismic research on whales                                       |
-| Procedure/What was examined         | 1. Analyse the loudness of airgun arrays 
-2. See the damage that cause to whales        |
-| Conclusions/Discovery               | The impacts of airgun blasts must be controlled to secure the life of thousands whales  |
-| Remaining questions                 | /                                                                                       |
+| Researchers?                        | Taylor L. Machette from Princeton University                                             |
+| ----------------------------------- | ---------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | Scientific American (04/10/2020)                                                         |
+| General topic                       | The negative impact of seismic research on whales                                        |
+| Procedure/What was examined         | First, analyse the loudness of airgun arrays. Then,  see the damage that cause to whales |
+| Conclusions/Discovery               | The impacts of airgun blasts must be controlled to secure the life of thousands whales   |
+| Remaining questions                 | /                        
 
 
