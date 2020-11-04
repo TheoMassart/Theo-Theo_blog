@@ -15,7 +15,9 @@ base_url: http://TheoMassart.github.io/Theo-Theo_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      disqus: theo-blog
+      disqus: 
+        shortname: theo-blog
+        hiden: false
 output:
   distill::distill_article:
     css: style.css
