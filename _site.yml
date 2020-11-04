@@ -14,10 +14,8 @@ navbar:
 base_url: http://TheoMassart.github.io/Theo-Theo_blog/
 collections:
     posts:
+      disqus: theo-blog
       share: [twitter, linkedin, facebook]
-      disqus: 
-        shortname: theo-blog
-        hiden: false
 output:
   distill::distill_article:
     css: style.css
