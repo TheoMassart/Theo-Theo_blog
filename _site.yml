@@ -10,7 +10,7 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/TheoMassart/Theo-Theo_blog
+      href: http://github.com/TheoMassart/Theo-Theo_blog
 base_url: TheoMassart.github.io/Theo-Theo_blog/
 collections:
     posts:
