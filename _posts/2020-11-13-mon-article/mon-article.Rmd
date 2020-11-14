@@ -1,5 +1,5 @@
 ---
-title: "graphic_description"
+title: "Zooplankton graphic"
 description: |
   Data Sciences I
 author:

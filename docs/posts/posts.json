@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2020-11-13-mon-article/",
-    "title": "graphic_description",
+    "title": "Zooplankton graphic",
     "description": "Data Sciences I",
     "author": [
       {
@@ -12,7 +12,7 @@
     "date": "2020-11-13",
     "categories": [],
     "preview": "posts/2020-11-13-mon-article/mon-article_files/figure-html5/unnamed-chunk-1-1.png",
-    "last_modified": "2020-11-13T19:22:19+01:00",
+    "last_modified": "2020-11-14T12:59:17+01:00",
     "preview_width": 1248,
     "preview_height": 768
   },
