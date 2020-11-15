@@ -1,0 +1,49 @@
+---
+title: "Article 2"
+description: |
+  Dolphins can learn from peers how to hunt
+author:
+  - name: Massart Théo
+    url: {}
+date: 11-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+Source of the article: [link](https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools)
+
+(25/06/2020)
+
+Word count: 535
+
+## II. Vocabulary:
+
+| Word frome the text | Synonym/definition in English                   | French translation        |
+| ------------------- | ----------------------------------------------- | ------------------------- |
+| Porpoise            | Sea mammals                                     | Marsouin                  |
+| Humpack             | Hunch on the back. eg : Humpback whale          | Bosse, baleine à bosse    |
+| Beak                | animal's beak-like mouth                        | Bec                       |
+| Foraging            | gathering, hunting for food                     | chercher de la nourriture |
+| scrounging          | borrow, obtain from others                      | grapiller, taxer          |
+| relatedness         | the state or fact of being related or connected | une relation              |
+| overlap             | cross each other                                | chevauchement, croisement |
+| likens              | compare                                         | comparer                  |
+| dismissing          | reject an idea                                  | rejeter, écarter          |
+| bump                | knock lightly                                   | heurter, toucher          |
+
+## III. Analysis table about the study:
+
+| Researchers?                        | Jack J. Lee                                             |
+| ----------------------------------- | ---------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | ScienceNews (25/06/2020)                                                         |
+| General topic                       | The dolphin's ability to learn hunting skills by observing their peers                                       |
+| Procedure/What was examined         | They analyze and quantify the importance of social network. They also observe some clever strategies that cetaceans use to hunt |
+| Conclusions/Discovery               | Dolphins car learn to use tools like sea snell shell to catch and eat their prey   |
+| Remaining questions                 | /                        
