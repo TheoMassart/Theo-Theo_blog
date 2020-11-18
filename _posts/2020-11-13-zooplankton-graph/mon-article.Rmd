@@ -23,7 +23,7 @@ names(zooplankton)
 
 These data are various features measured by image analysis of zooplankton originating from Tulear, Madagascar. This topic will show us the size distribution of zooplankton according to their taxonomic classification. 
 
-```{r}
+```{r graphe}
 library(ggridges)
  chart(zooplankton, class ~ size %fill=% class) +
   geom_density_ridges(orientation = "y", show.legend = FALSE) +
@@ -31,6 +31,6 @@ library(ggridges)
    ylab("Classification")
  
 ```
-On this graphic we can see that zooplankton are really small. They are less than 2 millimeter high exept for Chaetognath and Cnidarian. These two classes have various sizes ranging from 0 to 6 millimeter.
+On this graphic we can see that zooplankton are really small. They are less than 2 millimeters high except for Chaetognath and Cnidarian. These two classes have various sizes ranging from 0 to 6 millimeters.
 
 
