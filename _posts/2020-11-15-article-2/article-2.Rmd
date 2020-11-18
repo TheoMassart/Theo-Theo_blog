@@ -45,5 +45,5 @@ Word count: 535
 | Published in? When (if mentioned) ? | ScienceNews (25/06/2020)                                                         |
 | General topic                       | The dolphin's ability to learn hunting skills by observing their peers                                       |
 | Procedure/What was examined         | They analyze and quantify the importance of social network. They also observe some clever strategies that cetaceans use to hunt |
-| Conclusions/Discovery               | Dolphins car learn to use tools like sea snell shell to catch and eat their prey   |
+| Conclusions/Discovery               | Dolphins can learn to use tools like sea snell shell to catch and eat their prey   |
 | Remaining questions                 | /                        

@@ -1,0 +1,47 @@
+---
+title: "Article 3"
+description: |
+  Why do some blue whales switch up the timing of their songs?
+author:
+  - name: Massart Théo
+    url: {}
+date: 11-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+Source of the article: [link](https://www.sciencenews.org/article/before-migrating-blue-whales-switch-timing-songs)
+
+(01/10/2020)
+
+Word count: 658
+
+## II. Vocabulary:
+
+| Word frome the text | Synonym/definition in English | French translation          |
+| ------------------- | ----------------------------- | --------------------------- |
+| Crooning            | Sing softly                   | Fredonner, chantonner       |
+| Breeding            | Raising animals               | Un élevage                  |
+| Instance            | One in a serie                | Un cas                      |
+| Gorging             | Overeat                       | Se gaver, s'empiffrer       |
+| Eavesdrop           | Listen secretly               | Ecouter aux portes          |
+| Stumbled upon       | Discover, encounter by chance | Tomber par hasard sur (...) |
+| Embedded            | Inset, set inside             | Enfoncer, incruster         |
+| Eager               | Desirous, avid                | Avoir hâte de (...)         |
+
+## III. Analysis table about the study:
+
+| Researchers?                        | William Oestreich (biological oceanographer at Stanford University) ; Jenny Allen (marine ecologist at the University of Queensland in Australia) ; Ana Širović (marine biologist at Texas A&M University at Galveston)                                                         |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | ScienceNews (01/10/2020)                                                                                                                                                                                                                                                        |
+| General topic                       | Why do some blue whales switch up the timing of their songs?                                                                                                                                                                                                                    |
+| Procedure/What was examined         | They discovered that blue whales tend to sing at night in the summer. But just before migrating, they switch up their timing and sing during the day. The researchers recorded whales's movements during their diving and feeding behavior to learn the details of this change. |
+| Conclusions/Discovery               | We have to learn more about the whales and the impact of their songs on their movements.                                                                                                                                                                                        |
+| Remaining questions                 | /                                                                                                                                                                                                                                                                               |
