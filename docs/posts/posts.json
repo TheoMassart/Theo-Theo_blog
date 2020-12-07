@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-11-27-mon-article-4/",
+    "title": "Article 4",
+    "description": "The growing extinction threat to whales.",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-08T00:04:43+01:00"
+  },
+  {
     "path": "posts/2020-11-18-mon-article-3/",
     "title": "Article 3",
     "description": "Why do some blue whales switch up the timing of their songs?",
@@ -12,7 +27,7 @@
     "date": "2020-11-18",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-19T00:28:45+01:00"
+    "last_modified": "2020-12-07T21:10:35+01:00"
   },
   {
     "path": "posts/2020-11-15-article-2/",

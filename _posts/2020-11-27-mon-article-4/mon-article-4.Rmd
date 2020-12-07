@@ -1,0 +1,47 @@
+---
+title: "Article 4"
+description: |
+  The growing extinction threat to whales.
+author:
+  - name: Massart Théo
+    url: {}
+date: 11-27-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+Source of the article : [link](https://www.bbc.com/news/science-environment-54485407)
+
+(10/10/2020)
+
+Word count : 704
+
+## II. Vocabulary:
+
+| Word from the text | Synonym/definition in English | French translation |
+| ------------------ | ----------------------------- | ------------------ |
+| fellow             | somebody who has a fellowship | boursier           |
+| stricken           | affected, hit                 | touché             |
+| myriad             | large number                  | innombrable        |
+| die out            | become  less and less common  | disparaître        |
+| monitor            | observe                       | surveiller         |
+| entanglement       | state of being tangled up     | emmêlement         |
+
+## III. Analysis table about the study:
+
+| Researchers?                        | Dr Susan Lieberman of the Wildlife Conservation Society / Sarah Dolman of Whale and Dolphin Conservation                                                                                                                                                                                        |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | BBC (10/10/2020)                                                                                                                                                                                                                                                                                |
+| General topic                       | The growing extinction threat to whales.                                                                                                                                                                                                                                                        |
+| Procedure/What was examined         | Scientists expressed that we are moving closer to a number of extinctions. Plastic pollution, climate change and entanglement in fishing nets are some human actions who are involved. A letter has been signed by hundred of scientists to call for global action to protect these cetacean.   |
+| Conclusion/Discovery                | We must implement more actions to save these wonderful species.                                                                                                                                                                                                                                 |
+| Remaining questions                 | /                                                                                                                                                                                                                                                                                               |
+
+
