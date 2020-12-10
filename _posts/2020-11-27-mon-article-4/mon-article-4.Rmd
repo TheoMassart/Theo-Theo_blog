@@ -1,7 +1,7 @@
 ---
 title: "Article 4"
 description: |
-  The growing extinction threat to whales.
+  The growing threat of whales extinction.
 author:
   - name: Massart Théo
     url: {}
@@ -39,7 +39,7 @@ Word count : 704
 | Researchers?                        | Dr Susan Lieberman of the Wildlife Conservation Society / Sarah Dolman of Whale and Dolphin Conservation                                                                                                                                                                                        |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Published in? When (if mentioned) ? | BBC (10/10/2020)                                                                                                                                                                                                                                                                                |
-| General topic                       | The growing extinction threat to whales.                                                                                                                                                                                                                                                        |
+| General topic                       | The growing threat of whales extinction.                                                                                                                                                                                                                                                        |
 | Procedure/What was examined         | Scientists expressed that we are moving closer to a number of extinctions. Plastic pollution, climate change and entanglement in fishing nets are some human actions who are involved. A letter has been signed by hundred of scientists to call for global action to protect these cetacean.   |
 | Conclusion/Discovery                | We must implement more actions to save these wonderful species.                                                                                                                                                                                                                                 |
 | Remaining questions                 | /                                                                                                                                                                                                                                                                                               |
