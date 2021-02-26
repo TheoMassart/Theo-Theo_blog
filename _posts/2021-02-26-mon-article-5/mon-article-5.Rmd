@@ -1,0 +1,33 @@
+---
+title: "Article 5"
+description: |
+  A short description of the post.
+author:
+  - name: Massart Théo
+    url: {}
+date: 02-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+
+
+## II. Vocabulary:
+
+
+
+
+
+
+
+
+## III. Analysis table about the study:
+
+
