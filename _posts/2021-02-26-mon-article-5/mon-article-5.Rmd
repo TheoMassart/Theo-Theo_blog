@@ -1,7 +1,7 @@
 ---
 title: "Article 5"
 description: |
-  A short description of the post.
+  Pilot whales show possible orca-mimicking repertoire
 author:
   - name: Massart Théo
     url: {}
@@ -17,17 +17,51 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## I. Source of the article with publication date and word count:
 
+Source of the article : [link](https://www.scientificamerican.com/article/pilot-whales-show-possible-orca-mimicking-repertoire/)
 
+(01/03/2021)
+
+Word count : 494
 
 ## II. Vocabulary:
 
-
-
-
-
-
+| Word from the text      | Synonym/definition in English                                          | French translation                              |
+| ----------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- |
+| Pilot whale             | Cetacean belonging to the genus Globicephala of the family Delphinidae | Globicéphale                                    |
+| Long-finned pilot whale | Large species of Globicephala with an unusally long pectoral fins      | Globicéphale commun ou globicéphale noir        |
+| Foe                     | An enemy or opponent                                                   | Adversaire                                      |
+| Within                  | On the inside of - eg. I stay within the boundaries                    | A l'intérieur de                                |
+| Instance                | One in a serie - eg. an example                                        | Un cas                                          |
+| To resemble             | To have similar aspect to something or somebody - eg. look like        | Ressembler                                      |
+| Evidence                | Something that leads to a conclusion - eg. a proof                     | Un indice                                       |
+| To mob                  | Round someone in a unruly way - eg.                                    | Assaillir                                       |
+| To scavenge             | Forage, search or hunt for food                                        | Fouiller, farfouiller - eg. Faire les poubelles |
+| Distinguish             | See the difference between - eg. make out                              | Distinguer                                      |
+| Remnants                | Piece left over - eg. scrap                                            | Les restes                                      |
 
 
 ## III. Analysis table about the study:
+
+| Researchers ?                       | Christine Erbe (director of the Center for Marine Science and Technology at Curtin University in Perth. Charlotte Curé (bioacoustics researcher)                                                                                                                                                                            |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | Scientifist American March 2021 issue (01/03/2021)                                                                                                                                                                                                                                                                          |
+| General topic                       | Pilot whales can outsmart orca by mimicking their vocalizations                                                                                                                                                                                                                                                             |
+| Procedure/What was examined         | - 2028 vocalizations of long-finned pilot whales were recorded by researchers -> some of then looked like those of orcas - These two species are often in the same environments - Underwater, the light is poorly -> Orcas rely on sound for navigating and detecting their prey -> Mimicry could be a strategic defense   |
+| Conclusion/Discovery                | - Scientists have to do additional work on pilot whale. This would confirm whether mimicry is actually occuring. - Using predatory sounds is very stressful and the reaction of the animal can be very strong -> Not allowed to do it more than two per year -> The study take time                                         |
+| Remaining questions                 | /                                                                                                                                                                                                                                                                                                                           |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
