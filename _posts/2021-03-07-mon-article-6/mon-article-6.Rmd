@@ -1,0 +1,65 @@
+---
+title: "Article 6"
+description: |
+  Project to protect marine mammals provides valuable framework.
+author:
+  - name: Massart Théo
+    url: {}
+date: 03-07-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+Source of the article : [link](https://phys.org/news/2020-09-marine-mammals-valuable-framework.html)
+
+(14/09/2020)
+
+Word count : 484
+
+## II. Vocabulary:
+
+| Word from the text | Synonym/definition in English                                | French translation            |
+| ------------------ | ------------------------------------------------------------ | ----------------------------- |
+| To provide         | Make available - eg. furnish, supply, yield                  | Fournir, assurer              |
+| Framework          | A basic structure of a system, object or concept - eg. shape | Cadre, système, environnement |
+| Endangered         | Close to extinction (for species) - eg. at risk              | En voie d'extinction          |
+| Threatened         | In danger                                                    | Menacé                        |
+| Increasingly       | More and more                                                | De plus en plus               |
+| Bycatch            | The unwanted species trapped by commercial fishing nets      | Prise accidentelle            |
+| To hinder          | Slow progress - eg. to hamper                                | Entraver, gêner               |
+| Stakeholder        | Person or group with an investment or interest               | Partie intéressée             |
+| To leverage        | Use something to maximum advantage                           | Tirer profil de, exploiter    |
+| To assess          | Evaluate something - eg. To estimate                         | Evaluer, jauger, expertiser   |
+| Gear               | Tools, equipment                                             | Matériel                      |
+| Trawl              | Large fishing net                                            | Chalut                        |
+| Account for        | Give a satisfactory of something                             | Prendre en compte             |
+| Outline            | Give a summary of - eg. summarize                            | Décrire                       |
+| Estuarine          | Found in a estuary                                           | Relatif à un estuaire         |
+| To screen          | Pass through screen                                          | Passer au crible              |
+| Ultimately         | Finally, basically                                           | En fin de compte              |
+| Substainable       | Able to be maintained at a certain rate or level             | Viable, durable               |
+| Insight            | An accurate and deep understanding                           | Aperçu, idée                  |
+| To mitigate        | Become less severe                                           | Atténuer, réduire             |
+
+
+## III. Analysis table about the study:
+
+| Researchers ?                        | Gregory Verutes (University of Santiago de Compostela)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ? When (if mentioned) ? | PLOS one journal (14/09/2020)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| General topic                        | Impact of bycatch on marine mammals + solutions to mitigate the risk                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/What was examined          | First, they linked stakeholder engagement and local expert knowledge to underline possible overlap between the position of fishing activities and marine megafauna. Then, they created a cohesive management instrument (called "ByRa") to provide a clear roadmap.  To get there, they spent years to study the impact of common fishing gears on two species of marine mammals. ByRa screened 10 000 squared kilometers of coastal and estuarine waters. The tool brought out 8% of the total area and classified it as high bycatch concern.   |
+| Conclusion/Discovery                 | Many countries don't really regulate fisheries bycatch. This study show how the information obtained can assist in the development of management plans, leading to sustainable fisheries and reduce bycatch risk                                                                                                                                                                                                                                                                                                                                  |
+| Remaining questions                  | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+
+
+
+

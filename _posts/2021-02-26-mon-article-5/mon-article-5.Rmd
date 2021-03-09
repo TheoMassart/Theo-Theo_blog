@@ -34,7 +34,7 @@ Word count : 494
 | Instance                | One in a serie - eg. an example                                        | Un cas                                          |
 | To resemble             | To have similar aspect to something or somebody - eg. look like        | Ressembler                                      |
 | Evidence                | Something that leads to a conclusion - eg. a proof                     | Un indice                                       |
-| To mob                  | Round someone in a unruly way - eg.                                    | Assaillir                                       |
+| To mob                  | Round someone in a unruly way - eg. to surround                                   | Assaillir                                       |
 | To scavenge             | Forage, search or hunt for food                                        | Fouiller, farfouiller - eg. Faire les poubelles |
 | Distinguish             | See the difference between - eg. make out                              | Distinguer                                      |
 | Remnants                | Piece left over - eg. scrap                                            | Les restes                                      |
