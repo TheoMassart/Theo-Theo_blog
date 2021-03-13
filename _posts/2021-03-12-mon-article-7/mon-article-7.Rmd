@@ -1,0 +1,52 @@
+---
+title: "Article 7"
+description: |
+  Whales’long, loud calls reveal structure beneath Ocean floor.
+author:
+  - name: Massart Théo
+    url: {}
+date: 03-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I. Source of the article with publication date and word count:
+
+Source of the article : [link](https://www.scientificamerican.com/article/whales-long-loud-calls-reveal-structure-beneath-ocean-floor/)
+
+(11/02/2021)
+
+Word count : 615
+
+## II. Vocabulary:
+
+| Word from text   | Synonym/definition in English                                             | French translation     |
+| ---------------- | ------------------------------------------------------------------------- | ---------------------- |
+| Fin whale        | Cetacean belonging to the parvorder of baleen whales - eg. common rorqual | Rorqual commun         |
+| To probe         | A thorough investigation                                                  | Enquêter sur (...)     |
+| Crust            | Outermost layer                                                           | Croûte (terrestre)     |
+| Fault            | Geology : crack in the earth                                              | Faille                 |
+| Behemoth         | Gigantic creature                                                         | Monstre, géant         |
+| Concussive noice | Condition resulting from the stunning of a hard blow                      | Bruit de choc          |
+| Seafloor         | Bottom of the ocean                                                       | Le fond marin          |
+| Within           | On the inside of                                                          | A l'intérieur de (...) |
+| To pinpoint      | Show exact place                                                          | Localiser              |
+| Crisp            | Sharp, defined                                                            | Net, précis            |
+| Sloping          | Inclined, slanted                                                         | Pentu, incliné         |
+| To triangulate   | Calculation of positions                                                  | Trianguler             |
+
+
+## III. Analysis table about the study:
+
+| Researchers ?                          | Václav Kuna (a seismologist at the Institute of Geophysics of the Czech Academy of Sciences), John L. Nábělek (professor at Oregon State University)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in ? When (if mentionned) ?  | Science (11/02/2021)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| General topic                          | Fin whales : The new allies of scientists in seafloor imaging                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Procedure/What was examined            | **1.** Scientists discovered that the sound waves from the fin whales calls can help create images of the seafloor subsurface -> Seismic instrument readings match the frequencies of these calls -> This instrument measure vibrations, not sound waves -> This means the signals are echoes bouncing back from within the crust.     **2.** They had to localisate the whales to use their signals -> Fin whales made two sets of calls -> With a fairly flat seafloor, they can triangulate these ceteaceans positions.     **3.** This new approach has contraint -> Although fin whales are cosmopolitan, their songs are restricted in frequency -> The resulting images are not as accurate as those made with air guns.     |
+| Conclusion/Discovery                   | These new allies could provide more imagery of the ocean sediments and crust -> In addition to helping fields including climatology and seismology, this procedure is free and does not involve air guns sending blasts of sound that may disturb marine mammals.                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Remaining questions                    | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
