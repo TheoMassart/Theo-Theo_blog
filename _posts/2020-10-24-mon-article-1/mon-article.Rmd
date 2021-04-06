@@ -6,6 +6,9 @@ author:
   - name: Massart Théo
     url: {}
 date: 10-24-2020
+categories:
+  - "English for Science"
+  - "Article"
 output:
   distill::distill_article:
     self_contained: false
