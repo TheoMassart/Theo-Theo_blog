@@ -1,0 +1,23 @@
+---
+title: "Conclusion"
+author:
+  - name: Théo Massart
+    url: {}
+date: 04-06-2021
+categories:
+  - "English for Science"
+  - "Conclusion"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+   Cetaceans may be majestic mammals, but they are endangered. Global warming, platic pollution and human activity are the main culprits. Several projects and associations have been set up to protect these marine mammals. Provide shipping routes to separate fishing activity and cetaceans locations, or signing a letter to call for global action, are examples of what has been set up to protect these animals from extinction. 
+
+Doing this blog has helped me discover how smart they are.
+
+One wonders whether the measures taken will continue to evolve in the years to come, or regress and lead to the extinction of these species.

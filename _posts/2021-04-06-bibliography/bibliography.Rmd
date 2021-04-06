@@ -1,0 +1,32 @@
+---
+title: "Bibliography"
+author:
+  - name: Massart Théo
+    url: {}
+date: 04-06-2021
+categories:
+  - "English for Science"
+  - "Bibliography"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Christine Erbe, Charlotte Curé (01/03/2021) Pilot Whales Show Possible Orca-Mimicking Repertoire [link](https://www.scientificamerican.com/article/pilot-whales-show-possible-orca-mimicking-repertoire/)
+
+Gregory Verutes (14/09/2020) Project to protect marine mammals provides valuable framework [link](https://phys.org/news/2020-09-marine-mammals-valuable-framework.html)
+
+Jack J. Lee (25/06/2020) Dolphins can learn from peers how to hunt [link](https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools)
+
+Susan Lieberman, Sarah Dolman (10/10/2020) 'Real and imminent' extinction risk to whales [link](https://www.bbc.com/news/science-environment-54485407)
+
+Taylor L. Machette (04/10/2020) When whales stop calling [link](https://www.scientificamerican.com/article/when-whales-stop-calling/)
+
+Václav Kuna, John L. Nábělek (11/02/2021) Whales’ Long, Loud Calls Reveal Structure beneath Ocean Floor [link](https://www.scientificamerican.com/article/whales-long-loud-calls-reveal-structure-beneath-ocean-floor/)
+
+William Oestreich, Jenny Allen, Ana Širović (01/10/2020) Before migrating, some blue whales switch up the timing of their songs [link](https://www.sciencenews.org/article/before-migrating-blue-whales-switch-timing-songs)
+
