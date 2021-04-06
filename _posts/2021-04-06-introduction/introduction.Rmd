@@ -1,0 +1,28 @@
+---
+title: "Introduction"
+author:
+  - name: Massart Théo
+    url: {}
+date: 04-06-2021
+categories:
+  - "English for Science"
+  - "Introduction"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Cetaceans are fascinating in many ways. These animals are the only mammals that live exclusively in the seas and oceans. This lifestyle, although disabling in breathing with lungs, has given them incredible abilities. 
+
+Indeed, their intelligence is one of the first things highlighted when we talk about these species. In addition to their large brains, cetaceans have highly developed sensory abilities. Among these, the best known is echolocation. This capacity belongs to the toothed whales, which are one of the two major classes of cetaceans along with the baleen whales. This allows them to locate other animals. Actually, these cetaceans release calls into their environment and pay attention to the echoes of those calls that return from different entity near them. These are not the only sounds made by these animals. The *"whale song"* is also popular. Various pattern, depending on the species, are used to communicate. 
+
+Human activity can be disturbing to whales. Many ships sailing in the oceans create a hubbub that bothers their songs. Cetaceans are also affected by fishing boats. "By-catch" is the word used to describe non-voluntary fishing. Many cetaceans are caught, injured and killed by these huge nets.
+As you will see in an article, measures are taken to protect these beautiful animals. But unfortunately this is not enough, and their numbers are getting smaller every year.
+
+For hundreds of years, these species have intrigued and amazed: *"Moby Dick"* and *"Free Willy"* are two good examples of this. It is for all these reasons that I turned to this topic. 
+
+

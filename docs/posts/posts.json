@@ -1,142 +1,5 @@
 [
   {
-    "path": "posts/2021-03-12-mon-article-7/",
-    "title": "Article 7",
-    "description": "Whales’long, loud calls reveal structure beneath Ocean floor.",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-12",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-13T17:07:05+01:00"
-  },
-  {
-    "path": "posts/2021-03-07-mon-article-6/",
-    "title": "Article 6",
-    "description": "Project to protect marine mammals provides valuable framework.",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-07",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-09T17:03:49+01:00"
-  },
-  {
-    "path": "posts/2021-02-26-mon-article-5/",
-    "title": "Article 5",
-    "description": "Pilot whales show possible orca-mimicking repertoire",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2021-02-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-06T00:14:48+01:00"
-  },
-  {
-    "path": "posts/2020-11-27-mon-article-4/",
-    "title": "Article 4",
-    "description": "The growing threat of whales extinction.",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-27",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-12-10T16:29:22+01:00"
-  },
-  {
-    "path": "posts/2020-11-18-mon-article-3/",
-    "title": "Article 3",
-    "description": "Why do some blue whales switch up the timing of their songs?",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-18",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-12-07T21:10:35+01:00"
-  },
-  {
-    "path": "posts/2020-11-15-article-2/",
-    "title": "Article 2",
-    "description": "Dolphins can learn from peers how to hunt",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-15",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-11-27T20:54:35+01:00"
-  },
-  {
-    "path": "posts/2020-11-13-zooplankton-graph/",
-    "title": "Zooplankton graphic",
-    "description": "Data Sciences I",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-13",
-    "categories": [],
-    "preview": "posts/2020-11-13-zooplankton-graph/mon-article_files/figure-html5/graphe-1.png",
-    "last_modified": "2020-11-18T12:12:47+01:00",
-    "preview_width": 1248,
-    "preview_height": 768
-  },
-  {
-    "path": "posts/2020-10-24-mon-article-1/",
-    "title": "Article 1",
-    "description": "When whales stop calling",
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-24",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-24T17:33:27+02:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Massart Théo",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-24",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-24T15:28:42+02:00"
-  },
-  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
@@ -154,14 +17,12 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2021-04-06",
     "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
+      "SDD"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-24T14:55:22+02:00",
+    "last_modified": "2021-04-06T14:39:10+02:00",
     "preview_width": 3333,
     "preview_height": 2667
   },
@@ -183,14 +44,190 @@
         "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2021-04-06",
     "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
+      "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-10-24T14:55:22+02:00"
+    "last_modified": "2021-04-06T14:38:05+02:00"
+  },
+  {
+    "path": "posts/2021-04-06-introduction/",
+    "title": "Introduction",
+    "description": {},
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-06",
+    "categories": [
+      "English for Science",
+      "Introduction"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:51:41+02:00"
+  },
+  {
+    "path": "posts/2021-03-12-mon-article-7/",
+    "title": "Article 7",
+    "description": "Whales’long, loud calls reveal structure beneath Ocean floor.",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-12",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:37:23+02:00"
+  },
+  {
+    "path": "posts/2021-03-07-mon-article-6/",
+    "title": "Article 6",
+    "description": "Project to protect marine mammals provides valuable framework.",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-07",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:36:53+02:00"
+  },
+  {
+    "path": "posts/2021-02-26-mon-article-5/",
+    "title": "Article 5",
+    "description": "Pilot whales show possible orca-mimicking repertoire",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-26",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:36:20+02:00"
+  },
+  {
+    "path": "posts/2020-11-27-mon-article-4/",
+    "title": "Article 4",
+    "description": "The growing threat of whales extinction.",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-27",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:36:06+02:00"
+  },
+  {
+    "path": "posts/2020-11-18-mon-article-3/",
+    "title": "Article 3",
+    "description": "Why do some blue whales switch up the timing of their songs?",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-18",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:35:38+02:00"
+  },
+  {
+    "path": "posts/2020-11-15-article-2/",
+    "title": "Article 2",
+    "description": "Dolphins can learn from peers how to hunt",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-15",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:34:59+02:00"
+  },
+  {
+    "path": "posts/2020-11-13-zooplankton-graph/",
+    "title": "Zooplankton graphic",
+    "description": "Data Sciences I",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-13",
+    "categories": [
+      "SDD"
+    ],
+    "preview": "posts/2020-11-13-zooplankton-graph/mon-article_files/figure-html5/graphe-1.png",
+    "last_modified": "2021-04-06T14:39:58+02:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/2020-10-24-mon-article-1/",
+    "title": "Article 1",
+    "description": "When whales stop calling",
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [
+      "English for Science",
+      "Article"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-06T14:29:41+02:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Massart Théo",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-24T15:28:42+02:00"
   },
   {
     "path": "posts/meal/",

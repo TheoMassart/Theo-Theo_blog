@@ -6,6 +6,8 @@ author:
   - name: Massart Théo
     url: {}
 date: 11-13-2020
+categories:
+  - "SDD"
 output:
   distill::distill_article:
     self_contained: false

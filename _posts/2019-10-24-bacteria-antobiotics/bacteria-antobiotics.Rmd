@@ -9,9 +9,7 @@ author:
     url: https://guyliann.netlify.com/fr
 date: "`r Sys.Date()`"
 categories:
-  - "English for Science"
-  - "Bacteria"
-  - "Adaptation"
+  - "SDD"
 preview: images/jpg120051fa.png
 #draft: TRUE
 bibliography: biblio/bacteria.bib
